@@ -1,0 +1,4 @@
+This is the initial conent before duplicating fd
+Content after 1st duplication of fd using dup()
+Content after 2nd duplication of fd using dup2()
+Content after 3rd duplication of fd using fcntl()
